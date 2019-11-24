@@ -1,0 +1,2 @@
+image: "docker.elastic.co/kibana/kibana-oss"
+elasticsearchHosts: "http://elasticsearch-master:9200"
